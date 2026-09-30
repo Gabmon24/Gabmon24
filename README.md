@@ -44,7 +44,7 @@
 
 ### 📌 Proyectos Destacados
 
-- 🩺 **Sistema de Gestión de Citas Médicas (Full-Stack):** Proyecto formativo insigne ADSO (SENA). Arquitectura en capas, desarrollo de API RESTful, modelo relacional de datos, autenticación de usuarios y frontend dinámico.
+- 📅 **Sistema de Agendamiento y Gestión de Citas (Full-Stack):** Proyecto formativo insigne ADSO (SENA). Arquitectura en capas, desarrollo de API RESTful, modelo relacional de datos, disponibilidad de horarios, gestión de roles y frontend dinámico.
 - ⚡ **Colección de Scripts & Automatizaciones:** Herramientas de procesamiento de datos, web scraping y utilidades CLI en Python y JavaScript.
 - 🌐 **Portafolio Web Personal:** Sitio web interactivo para la exhibición de proyectos e historial profesional.
 
