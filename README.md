@@ -9,7 +9,7 @@
   Ingeniero de software y educador en ciencias de la computación. Me especializo en la construcción de aplicaciones web de alto rendimiento, arquitecturas de backend limpias y sistemas desacoplados con <strong>TypeScript estricto</strong>, <strong>pruebas automatizadas</strong> y estándares de producción.
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel_Montiel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-montiel-5239801a9)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel_Montiel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-montielc/)
 [![GitHub](https://img.shields.io/badge/GitHub-Gabmon24-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gabmon24)
 ![Status](https://img.shields.io/badge/Status-Open_for_Opportunities-success?style=for-the-badge)
 
@@ -26,6 +26,16 @@
 - **Stack:** Astro 5, React 19, Tailwind CSS v4 (OKLCH), Hono (TypeScript), PostgreSQL, Drizzle ORM.
 - **Calidad & Testing:** 19 pruebas unitarias automatizadas con **Vitest** (100% passing).
 - 🔗 **[🚀 Probar Demo en Vivo en Vercel](https://proyecto-6bxqv16ow-gabmon24.vercel.app)** · 📁 **[Ver Código en GitHub](https://github.com/Gabmon24/proyecto-gym)**
+
+---
+
+### 🚀 [WP Lead Booster — WhatsApp & Conversion Suite](https://github.com/Gabmon24/wp-lead-booster)
+> Plugin modular y ultraligero de código abierto para WordPress diseñado para maximizar la captación de prospectos (leads) y ventas directas por WhatsApp sin ralentizar los tiempos de carga web.
+
+- **Rendimiento Máximo:** Desarrollado en Vanilla JavaScript nativo (< 4 KB, cero jQuery), garantizando un puntaje **100/100 en Core Web Vitals y Google PageSpeed**.
+- **Funcionalidades:** Botón flotante interactivo con modal de asesor, barra de anuncios con temporizador de urgencia y tracking automático de eventos para Google Analytics 4 (`generate_lead`) y Meta Pixel (`Lead`).
+- **Seguridad & Estándares:** Integrado en el panel nativo de WordPress mediante la Settings API oficial, sanitización estricta y verificación de nonces contra CSRF.
+- 📁 **[Ver Código en GitHub](https://github.com/Gabmon24/wp-lead-booster)**
 
 ---
 
