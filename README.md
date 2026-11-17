@@ -21,7 +21,6 @@
 
 ### 🏋️ [Proyecto Gym — Colombian Fitness Management OS](https://github.com/Gabmon24/proyecto-gym)
 > Sistema operativo integral de gestión y control diseñado para la economía real de gimnasios en Colombia (tarifas en COP, pagos locales por Nequi/Daviplata, arqueo de caja con control de descuadres, carnet digital con código QR dinámico y audio-feedback estilo torniquete con Web Audio API).
-
 - **Arquitectura:** Clean Architecture modular (Frontend desacoplado de la API y persistencia).
 - **Stack:** Astro 5, React 19, Tailwind CSS v4 (OKLCH), Hono (TypeScript), PostgreSQL, Drizzle ORM.
 - **Calidad & Testing:** 19 pruebas unitarias automatizadas con **Vitest** (100% passing).
@@ -29,12 +28,29 @@
 
 ---
 
-### 🚀 [WP Lead Booster — WhatsApp & Conversion Suite](https://github.com/Gabmon24/wp-lead-booster)
-> Plugin modular y ultraligero de código abierto para WordPress diseñado para maximizar la captación de prospectos (leads) y ventas directas por WhatsApp sin ralentizar los tiempos de carga web.
+### ⚡ [Headless WordPress with React 19 & Vite](https://github.com/Gabmon24/headless-wp-react)
+> Frontend desacoplado de alto rendimiento para WordPress construido con **React 19, TypeScript y Vite**. Consume la REST API nativa en tiempo real, incluye buscador de artículos, selector de categorías, conmutador de endpoints en vivo y suite de pruebas con Vitest.
+- **Stack:** React 19, TypeScript estricto, Vite, Tailwind CSS, WordPress REST API v2, Vitest (4 tests pasando).
+- 📁 **[Ver Código en GitHub](https://github.com/Gabmon24/headless-wp-react)**
 
-- **Rendimiento Máximo:** Desarrollado en Vanilla JavaScript nativo (< 4 KB, cero jQuery), garantizando un puntaje **100/100 en Core Web Vitals y Google PageSpeed**.
-- **Funcionalidades:** Botón flotante interactivo con modal de asesor, barra de anuncios con temporizador de urgencia y tracking automático de eventos para Google Analytics 4 (`generate_lead`) y Meta Pixel (`Lead`).
-- **Seguridad & Estándares:** Integrado en el panel nativo de WordPress mediante la Settings API oficial, sanitización estricta y verificación de nonces contra CSRF.
+---
+
+### 🎨 [WP Tailwind Starter — High-Performance Theme](https://github.com/Gabmon24/wp-tailwind-starter)
+> Starter theme moderno para WordPress optimizado para **100/100 en Core Web Vitals**. Desarrollado con Tailwind CSS y flujo Vite, eliminando todo el código innecesario de maquetadores pesados.
+- **Stack:** WordPress 6.x, PHP 8.x, Tailwind CSS, Vite, Vanilla JS (Zero jQuery).
+- 📁 **[Ver Código en GitHub](https://github.com/Gabmon24/wp-tailwind-starter)**
+
+---
+
+### 🇨🇴 [WooCommerce Nequi & Daviplata Direct Hub](https://github.com/Gabmon24/wc-nequi-daviplata-hub)
+> Pasarela de pago directa para WooCommerce en Colombia con **0% de comisiones**. Incluye tarjetas interactivas con copiado en 1 clic y confirmación automatizada de comprobante por WhatsApp en la página de agradecimiento.
+- **Stack:** WooCommerce (Compatible con HPOS), PHP, JavaScript Vanilla, Settings API de WP.
+- 📁 **[Ver Código en GitHub](https://github.com/Gabmon24/wc-nequi-daviplata-hub)**
+
+---
+
+### 🚀 [WP Lead Booster — WhatsApp & Conversion Suite](https://github.com/Gabmon24/wp-lead-booster)
+> Plugin modular para WordPress que maximiza la captación de prospectos sin ralentizar la carga web. Incluye botón flotante animado de WhatsApp, banner de urgencia con temporizador y tracking automático para Google Analytics 4 y Meta Pixel.
 - 📁 **[Ver Código en GitHub](https://github.com/Gabmon24/wp-lead-booster)**
 
 ---
